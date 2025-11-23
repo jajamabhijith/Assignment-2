@@ -1,0 +1,27 @@
+DEGRADED	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ test_deg.wav	 4.500	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.952	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.628	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.524	 0.000	 0	 8000	0.0000
+ temp_deg_pesq.wav	 2.243	 0.000	 0	 8000	0.0000
+ 

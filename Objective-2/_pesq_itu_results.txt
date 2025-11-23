@@ -1,0 +1,27 @@
+REFERENCE	 DEGRADED	 PESQMOS	 PESQMOS	 SUBJMOS	 COND	 SAMPLE_FREQ	 CRUDE_DELAY
+temp_ref_pesq.wav	 temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ temp_ref_pesq.wav	 temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ temp_ref_pesq.wav	 temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ temp_ref_pesq.wav	 temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ test_ref.wav	 test_deg.wav	 SQValue=4.500	 4.500	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.952	 2.952	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.628	 2.628	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.524	 2.524	 0.000	 0	 8000	0.0000
+ D:\Assignment_2_EE623\Objective-2\temp_ref_pesq.wav	 D:\Assignment_2_EE623\Objective-2\temp_deg_pesq.wav	 SQValue=2.243	 2.243	 0.000	 0	 8000	0.0000
+ 
